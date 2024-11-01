@@ -1051,7 +1051,22 @@
           <mxGeometry x="1140" y="-540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9tkvKO-5qi-zeJdjUTRv-568" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="-180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tkvKO-5qi-zeJdjUTRv-572" value="(1, N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-71.25" y="-240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tkvKO-5qi-zeJdjUTRv-573" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290.47" y="-370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tkvKO-5qi-zeJdjUTRv-575" value="(1, N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="928.75" y="-70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tkvKO-5qi-zeJdjUTRv-576" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="226.56" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tkvKO-5qi-zeJdjUTRv-577" value="(1, N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374.38" y="-50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
